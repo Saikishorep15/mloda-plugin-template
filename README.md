@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/mloda-ai/mloda-plugin-template/blob/main/LICENSE)
 [![mloda](https://img.shields.io/badge/built%20with-mloda-blue.svg)](https://github.com/mloda-ai/mloda)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![CI](https://github.com/mloda-ai/mloda-plugin-template/actions/workflows/test.yml/badge.svg)](https://github.com/mloda-ai/mloda-plugin-template/actions/workflows/test.yml)
+[![CI](https://github.com/mloda-ai/mloda-plugin-template/actions/workflows/test.yml/badge.svg)](https://github.com/mloda-ai/mloda-plugin-template/actions/workflows/test.yml) 
 
 # mloda-plugin-template
 
